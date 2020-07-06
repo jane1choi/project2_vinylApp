@@ -78,7 +78,7 @@
 		CDAE4D0A24AEF6B6006006C2 /* ShopTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopTableViewController.swift; sourceTree = "<group>"; };
 		CDAE4D1224AF90A6006006C2 /* ShopTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopTableViewCell.swift; sourceTree = "<group>"; };
 		CDAE4D1624AFACDE006006C2 /* hyunsik.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hyunsik.jpg; sourceTree = "<group>"; };
-		CDAE4D4024B06295006006C2 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = ../../../../.Trash/DetailViewController.swift; sourceTree = "<group>"; };
+		CDAE4D4024B06295006006C2 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		CDAE4D4224B0AD01006006C2 /* loveact.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = loveact.jpg; sourceTree = "<group>"; };
 		CDAE4D4324B0AD01006006C2 /* lee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lee.jpg; sourceTree = "<group>"; };
 		CDAE4D4424B0AD01006006C2 /* justinlp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = justinlp.jpg; sourceTree = "<group>"; };
